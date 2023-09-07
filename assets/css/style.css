@@ -825,3 +825,16 @@ footer {
     width: 100%;
     z-index: -9999;
 }
+
+/* propon tema */
+.whos-behind .propon-tema-container {
+    margin: 1.5em auto;
+    padding: .5em;
+}
+.whos-behind .propon-tema {
+    font-size: 1.5em;
+    width: 300px;
+    margin: .5em 0;
+    padding: .4em;
+    border: 1px solid #e8643e;
+}
