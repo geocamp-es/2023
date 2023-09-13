@@ -51,6 +51,11 @@
 		padding-top: 0;
 	}
 
+    .mapa-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
 }
 
 @media (max-width: 767px) {
