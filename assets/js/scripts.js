@@ -24,6 +24,7 @@ jQuery(document).ready(function() {
 		else if(element_class == 'menu-subscribe') { scroll_to = $(".subscribe").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-project') { scroll_to = $(".about").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-whos-comming') { scroll_to = $(".whos-comming").offset().top - nav_height - 60; }
+		else if(element_class == 'menu-planning') { scroll_to = $(".planning").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-about-us') { scroll_to = $(".whos-behind").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-camiseta') { scroll_to = $(".faq").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-patrocinadores') { scroll_to = $(".patrocinadores").offset().top - nav_height - 60; }
@@ -46,6 +47,8 @@ jQuery(document).ready(function() {
 	$('.camiseta-container').backstretch("assets/img/backgrounds/5.jpg");
 
     $('.registro-container').backstretch("assets/img/backgrounds/3.jpg");
+
+    $('.planning-container').backstretch("assets/img/backgrounds/7.jpg");
 
     /*
         Countdown initializer

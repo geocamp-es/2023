@@ -531,6 +531,34 @@ nav a:focus { color: #fff; }
 	margin: 0 4px;
 }
 
+/** Planning **/
+
+.planning-container {
+    margin: 0 auto;
+    padding-bottom: 60px;
+    color: #ffffff;
+    text-align: center;
+	background-color: #f2e9a0!important;
+}
+
+.planning {
+    margin-top: 60px;
+    padding-bottom: 10px;
+}
+
+.planning h3 {
+    font-size: 46px;
+    font-weight: 100;
+    line-height: 50px;
+}
+
+.planning p {
+	margin-top: 30px;
+	padding: 0 120px;
+    font-size: 22px;
+    line-height: 36px;
+}
+
 /** Camiseta **/
 .camiseta-container {
 	text-align: center;
