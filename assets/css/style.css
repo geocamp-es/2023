@@ -414,8 +414,27 @@ nav a:focus { color: #fff; }
 .whos-behind-container {
     margin: 0 auto;
     padding-bottom: 60px;
-    color: #fff;
+    color: #333333;
     text-align: center;
+	background-color: #f2e9a0!important;
+}
+
+.whos-comming {
+    margin-top: 60px;
+    padding-bottom: 10px;
+}
+
+.whos-comming h3 {
+    font-size: 46px;
+    font-weight: 100;
+    line-height: 50px;
+}
+
+.whos-comming p {
+	margin-top: 30px;
+	padding: 0 120px;
+    font-size: 22px;
+    line-height: 36px;
 }
 
 .whos-behind {
@@ -452,8 +471,6 @@ nav a:focus { color: #fff; }
 	font-size: 15px;
     font-weight: 300;
     line-height: 22px;
-    color: #fff;
-    color: rgba(255, 255, 255, 0.6);
     text-transform: uppercase;
 }
 
@@ -464,7 +481,7 @@ nav a:focus { color: #fff; }
 
 .whos-behind-box-1 .whos-behind-photo {
 	position: relative;
-    width: 300px;
+    width: 142px;
     height: 142px;
     margin: 0 auto;
     overflow: hidden;
