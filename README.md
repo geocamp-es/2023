@@ -26,6 +26,7 @@ https://2023.geocamp.es/
 # Resumen del evento
 
 [Resumen conjunto de los participantes, donde se describe el desarrollo del evento](https://2023.geocamp.es/resumen.html).
+[Documento para publicar](https://docs.google.com/document/d/1WjnTcMtCuyt4LUCoGFirQ6hPR1fiJdQ8/edit)
 
 # Documentación gráfica
 
