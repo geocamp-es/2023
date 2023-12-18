@@ -25,12 +25,12 @@ https://2023.geocamp.es/
 
 # Resumen del evento
 
-* [Resumen conjunto de los participantes, donde se describe el desarrollo del evento](https://2023.geocamp.es/resumen.html).
-* [Documento para publicar](https://docs.google.com/document/d/1WjnTcMtCuyt4LUCoGFirQ6hPR1fiJdQ8/edit)
+[Resumen conjunto de los participantes, donde se describe el desarrollo del evento](https://2023.geocamp.es/resumen.html).
+[Documento para publicar](https://docs.google.com/document/d/1WjnTcMtCuyt4LUCoGFirQ6hPR1fiJdQ8/edit)
 
 # Documentación gráfica
 
 * [FOTOS](https://media.jorgesanz.net/gallery/2023/09/geocamp-2023.html).
-* [TWITTER](https://twitter.com/geocampes)
-* [INSTAGRAM1](https://www.instagram.com/p/CxX3SqFshWn/)
+* [TWITTER](https://twitter.com/geocampes)-
+* [INSTAGRAM1](https://www.instagram.com/p/CxX3SqFshWn/).
 * [INSTAGRAM2](https://www.instagram.com/reel/Cx3NN3YI39p/?igshid=NmQ4MjZlMjE5YQ%3D%3D)
