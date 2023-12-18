@@ -13,26 +13,22 @@ https://2023.geocamp.es/
 # Temas Open Space
 
 * OpenStreetMap [(https://wiki.openstreetmap.org/)]
-* OSM: the planet is the dataset por Erik Escoffier de satellitestud.io [[slides](http://satellitestud.io/openvisconf/)]
-* Grafos para Routing por Carlos Asuero de Geoblink [[slides](https://docs.google.com/presentation/d/1Q0DnRWKnjkVearm4NZ3h3Rh8sBB-8Lv5J34PvJqk1OE/edit#slide=id.g2e29447cb3_0_52)]
-* Mapa Base de Información Geográfica Oficial con teselas vectoriales por Gonzalo Lopez de IDERioja [[slides](https://drive.google.com/open?id=1_X6E2YVa_bUXSKBPf5xSezG6ZSCiVuDQ)]
-* Historia y SIG por Pastor Rodolfo Gómez de UMH [[slides](https://drive.google.com/open?id=1wZpn-ziDOi64lM52TfFoyDGPToPeL0Ww)]
-* Uso de las Infraestructuras de Datos Espaciales en Arqueoastronomía por José Gómez Castaño [[slides](https://drive.google.com/open?id=1Tx6rQdkKCWjX7SIZtly6pISrp8orLWS0)]
-* CARTO VL y Airship por Ramiro Aznar de CARTO [[slides](http://bit.ly/geocamp-carto)]
-* QGIS FMV por Fran Raga de Inspide [[slides](https://slides.com/franraga/qgis-fmv/fullscreen#/)]
-* QGIS SWAT por Toni Bolinches de la UCM [[slides](https://drive.google.com/open?id=1SO2e_-l0uln17ez5LegRD_qw5trvkACD)]
-* Las calles de las mujeres por Carmen Díez de Geochicas [[web](https://geochicasosm.github.io/lascallesdelasmujeres/)]
--->
-<!---
-# Análisis Interno
+* Las calles de las mujeres de Geochicas [[web](https://geochicasosm.github.io/lascallesdelasmujeres/)]
+* Wikimedia [(https://wikipedia.org/)]
+* Geoportales participativos
+* JS y Web GL [(https://gitlab.com/IvanSanchez/gleo)]
+* Inteligenica Artificial y mapas
+* Teledetección
+* Estado de las Comunidades
+* Estándares OGC
+* Blockchain
 
-[Análisis Interno](https://docs.google.com/document/d/1Lo743U6bzPfnohGR3EUMeMRdw5aoOe9SU90Ivyjz9gA/edit?usp=sharing) donde se describen los resultados de presupuesto, patrocinadores y asistencia, así como el análisis en estrella para mejorar futuras ediciones.
+# Resumen del evento
 
-# Encuesta de los asistentes
+[Resumen conjunto de los participanates](https://2023.geocamp.es/resumen.html) donde se describe el desarrollo del evento.
 
-[Resultados](https://docs.google.com/spreadsheets/d/18mrDihZ3Xq5SSYxCasTgLFKeU2zSWfBjGxrVwChOzFw/edit?usp=sharing).
+# Documentación gráfica
 
-# Entrevista
-
-[Congreso Nacional GeoCamp 2018 en International Lab Madrid](https://www.youtube.com/watch?v=Z0adkrLqj9Q).
--->
+[FOTOS](https://media.jorgesanz.net/gallery/2023/09/geocamp-2023.html).
+[TWITTER](https://twitter.com/geocampes)
+[INSTAGRAM](https://www.instagram.com/p/CxX3SqFshWn/)(https://www.instagram.com/reel/Cx3NN3YI39p/?igshid=NmQ4MjZlMjE5YQ%3D%3D)
