@@ -17,7 +17,7 @@ https://2023.geocamp.es/
 * Wikimedia [(https://wikipedia.org/)]
 * Geoportales participativos
 * JS y Web GL [(https://gitlab.com/IvanSanchez/gleo)]
-* Inteligenica Artificial y mapas
+* Inteligencia Artificial y mapas
 * Teledetección
 * Estado de las Comunidades
 * Estándares OGC
