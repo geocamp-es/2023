@@ -10,7 +10,7 @@ https://2023.geocamp.es/
 * Fecha: 30 de Septiembre
 * Lugar: Illa de San Simón
 
-# Presentaciones
+# Temas Open Space
 <!---
 * Presentación de la Geocamp 2018 [[slides](http://bit.ly/geocamp-carto)]
 * OSM: the planet is the dataset por Erik Escoffier de satellitestud.io [[slides](http://satellitestud.io/openvisconf/)]
