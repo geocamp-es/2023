@@ -10,7 +10,7 @@ https://2023.geocamp.es/
 * Fecha: 30 de Septiembre
 * Lugar: Illa de San Simón
 
-# Temas Open Space
+# Temas Open Spaces
 
 * OpenStreetMap [(https://wiki.openstreetmap.org/)]
 * Las calles de las mujeres de Geochicas [[web](https://geochicasosm.github.io/lascallesdelasmujeres/)]
@@ -25,10 +25,11 @@ https://2023.geocamp.es/
 
 # Resumen del evento
 
-[Resumen conjunto de los participanates](https://2023.geocamp.es/resumen.html) donde se describe el desarrollo del evento.
+[Resumen conjunto de los participantes, donde se describe el desarrollo del evento](https://2023.geocamp.es/resumen.html).
 
 # Documentación gráfica
 
 [FOTOS](https://media.jorgesanz.net/gallery/2023/09/geocamp-2023.html).
 [TWITTER](https://twitter.com/geocampes)
-[INSTAGRAM](https://www.instagram.com/p/CxX3SqFshWn/)(https://www.instagram.com/reel/Cx3NN3YI39p/?igshid=NmQ4MjZlMjE5YQ%3D%3D)
+[INSTAGRAM1](https://www.instagram.com/p/CxX3SqFshWn/)
+[INSTAGRAM2](https://www.instagram.com/reel/Cx3NN3YI39p/?igshid=NmQ4MjZlMjE5YQ%3D%3D)
