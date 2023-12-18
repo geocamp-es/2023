@@ -11,8 +11,8 @@ https://2023.geocamp.es/
 * Lugar: Illa de San Simón
 
 # Temas Open Space
-<!---
-* Presentación de la Geocamp 2018 [[slides](http://bit.ly/geocamp-carto)]
+
+* OpenStreetMap [(https://wiki.openstreetmap.org/)]
 * OSM: the planet is the dataset por Erik Escoffier de satellitestud.io [[slides](http://satellitestud.io/openvisconf/)]
 * Grafos para Routing por Carlos Asuero de Geoblink [[slides](https://docs.google.com/presentation/d/1Q0DnRWKnjkVearm4NZ3h3Rh8sBB-8Lv5J34PvJqk1OE/edit#slide=id.g2e29447cb3_0_52)]
 * Mapa Base de Información Geográfica Oficial con teselas vectoriales por Gonzalo Lopez de IDERioja [[slides](https://drive.google.com/open?id=1_X6E2YVa_bUXSKBPf5xSezG6ZSCiVuDQ)]
